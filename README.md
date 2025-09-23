@@ -13,16 +13,16 @@ A simple Python application to track your personal income and expenses, visualiz
    git clone https://github.com/hlnaklrm/finance-tracker.git
 Navigate to the project folder:
 
-bash
+
 cd finance-tracker
 Install required packages:
 
-bash
+
 pip install matplotlib
 Usage
 Run the main program:
 
-bash
+
 python main.py
 Follow the menu to:
 
